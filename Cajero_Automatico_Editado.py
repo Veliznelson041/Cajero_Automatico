@@ -52,7 +52,7 @@ def ejecutar():
         elif opcion == 3:
             mostrarTransacciones()
         elif opcion == 4:
-            print("Saliendo del programa.")
+            print("Saliendo del programa. ¡¡GRACIAS POR ELEGIRNOS!!")
             break
         else:
             print("Opción no válida")
